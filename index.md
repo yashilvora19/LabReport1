@@ -33,7 +33,7 @@ Install Git for Windows through this link- https://gitforwindows.org/. Click on 
 
 ![Image](Connecting Remotely SS 1.png)
 
-Once you are done with this, you will use the newly installed **git bash** in your default terminal. To do this go to https://tinyurl.com/2kmfhnsb and follow the steps given.
+Once you are done with this, you will use the newly installed **git bash** in your default terminal. To do this go to [this stackoverflow link](https://tinyurl.com/2kmfhnsb) and follow the steps given.
 
 The following steps must be completed by all students.
 
@@ -72,7 +72,7 @@ Here are some commands that I put together:
 
 **Description**: I created a directory  “”cse15L” and went into that directory. I then used pwd to print my working directory, went back to the original directory and used ls to list out the directories over there. This showed me the directory I created that was “cse15L”
 
-Commands such as _cd_, _ls_, _mkdir_, and _pwd_ among others are extremely common. You should remember what each of them do since you will be using them very often. I often make use of websites such as https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners  or https://www.digitalocean.com/community/tutorials/linux-commands where a list of commands for beginners are listed. This helps me get started off with using the workspace. A simple Google search such as _"linux commands cheat sheet"_ will give you a lot of useful websites! Explore the different commands and play around with them.
+Commands such as _cd_, _ls_, _mkdir_, and _pwd_ among others are extremely common. You should remember what each of them do since you will be using them very often. I often make use of websites such as [this](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) or [this](https://www.digitalocean.com/community/tutorials/linux-commands) where a list of commands for beginners are listed. This helps me get started off with using the workspace. A simple Google search such as _"linux commands cheat sheet"_ will give you a lot of useful websites! Explore the different commands and play around with them.
 
 ## Conclusion
 
