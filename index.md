@@ -33,7 +33,7 @@ Install Git for Windows through this link- https://gitforwindows.org/. Click on 
 
 ![Image](Connecting Remotely SS 1.png)
 
-Once you are done with this, you will use the newly installed **git bash** in your default terminal. To do this go to [this stackoverflow link](https://tinyurl.com/2kmfhnsb) and follow the steps given.
+Once you are done with this, you will use the newly installed **git bash** in your default terminal. To do this go to this [stackoverflow link](https://tinyurl.com/2kmfhnsb) and follow the steps given.
 
 The following steps must be completed by all students.
 
