@@ -10,7 +10,7 @@ Once you are done with this, you will be setup to continue with the rest of the 
 
 ## Installing VS Code
 
-VS Code is a text editor where you can write and runn your programs. To install this, go to _https://code.visualstudio.com_ and download the program. There are different options for Mac and Window users, so choose accordingly. 
+VS Code is a text editor where you can write and runn your programs. To install this, go to [Visual Studio website] (https://code.visualstudio.com) and download the program. There are different options for Mac and Window users, so choose accordingly. 
 
 ![Image](VS Code SS 1.png)
 
@@ -29,7 +29,7 @@ Congratulations! You have successfully installed and setup VS Code. You can now 
 This section will essentially teach you how to connect to a **remote** computer over the Internet to do work in this class. If you are a Mac user, ignore the step below.
 
 **For Windows users:** 
-Install Git for Windows through this link- https://gitforwindows.org/. Click on **Download** and complete the steps of setup.
+Install Git for Windows through this [link] (https://gitforwindows.org/). Click on **Download** and complete the steps of setup.
 
 ![Image](Connecting Remotely SS 1.png)
 
@@ -41,13 +41,13 @@ The following steps must be completed by all students.
 
 ![Image](Remotely Connecting SS 3.png)
 
-2.  Type in the command: $ ssh _username_@ieng6.ucsd.edu. Your replace _username_ with your 15L username. Note: You do not actually type in $ in the terminal. It's just a convention of how commands are written.
+2.  Type in the command: ```$ ssh _username_@ieng6.ucsd.edu```. Your replace _username_ with your 15L username. Note: You do not actually type in $ in the terminal. It's just a convention of how commands are written.
 3.  Since this is the first time you are logging in, you wil be prompted with a question with the options of replying _yes/no_. Type in _yes_ in the terminal and press _Enter_. I often make this mistake of forgetting that the terminal is case-sensitive. So make sure to write _yes_ and not _Yes_ or _YES_ or any other possible versions. 
 4.  Once this is done, you will be prompted to type in your password. Type in the password for your 15L account and click on _Enter_. 
 
 ![Image](Connecting Remotely SS 2.png)
 
-One thing I noticed was that when you type the password in the terminal, the characters or black dots can't be seen. Don't worry about this. Your password is being typed, but it jsut doesn't show.
+One thing I noticed was that when you type the password in the terminal, the characters or black dots can't be seen. Don't worry about this. Your password is being typed, but it just doesn't show.
 
 And that's it! You have successfully connectede to a computer in the CSE basement remotely. Please ask the TA/tutors/your peers questions if you are struggling with any of these steps since it is imperative that you complete them correctly in order to do all the work for this class. Don't shy from asking questions since that is how you learn!
 
