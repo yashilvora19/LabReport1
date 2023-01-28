@@ -10,7 +10,7 @@ Once you are done with this, you will be setup to continue with the rest of the 
 
 ## Installing VS Code
 
-VS Code is a text editor where you can write and runn your programs. To install this, go to [Visual Studio website](https://code.visualstudio.com) and download the program. There are different options for Mac and Window users, so choose accordingly. 
+VS Code is a text editor where you can write and runn your programs. To install this, go to the [Visual Studio website](https://code.visualstudio.com) and download the program. There are different options for Mac and Window users, so choose accordingly. 
 
 ![Image](VS Code SS 1.png)
 
@@ -37,7 +37,7 @@ Once you are done with this, you will use the newly installed **git bash** in yo
 
 The following steps must be completed by all students.
 
-1.  To ssh, open a terminal in VS Code (ctrl + ` OR cmd + ` You can also open a terminal by clicking on the button shown in the screenshot below. 
+1.  To ssh, open a terminal in VS Code (ctrl + ` OR cmd + `) You can also open a terminal by clicking on the button shown in the screenshot below. 
 
 ![Image](Remotely Connecting SS 3.png)
 
