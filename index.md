@@ -22,7 +22,7 @@ Once you finish this process, VS Code will be installed on your laptop. It shoul
 
 ![Image](VS Code SS 3.png)
 
-Congratulations! You have successfully installed and setup VS Code. You can now type and run you code on this program.
+Congratulations! You have successfully installed and setup VS Code. You can now type and run your code on this program.
 
 ## Connecting Remotely
 
@@ -37,11 +37,11 @@ Once you are done with this, you will use the newly installed **git bash** in yo
 
 The following steps must be completed by all students.
 
-1.  To ssh, open a terminal in VS Code (ctrl + ` OR cmd + `). You can also open a terminal by clicking on the button shown in the screenshot below. 
+1.  To ssh, open a terminal in VS Code (ctrl + ``````` OR cmd + ```````). You can also open a terminal by clicking on the button shown in the screenshot below. 
 
 ![Image](Remotely Connecting SS 3.png)
 
-2.  Type in the command: ```$ ssh _username_@ieng6.ucsd.edu```. Your replace _username_ with your 15L username. Note: You do not actually type in $ in the terminal. It's just a convention of how commands are written.
+2.  Type in the command: ```$ ssh _username_@ieng6.ucsd.edu```. Your replace _username_ with your 15L username. Note: You do not actually type in ```$``` in the terminal. It's just a convention of how commands are written.
 3.  Since this is the first time you are logging in, you wil be prompted with a question with the options of replying _yes/no_. Type in _yes_ in the terminal and press _Enter_. I often make this mistake of forgetting that the terminal is case-sensitive. So make sure to write _yes_ and not _Yes_ or _YES_ or any other possible versions. 
 4.  Once this is done, you will be prompted to type in your password. Type in the password for your 15L account and click on _Enter_. 
 
@@ -70,9 +70,9 @@ Here are some commands that I put together:
 
 ![Image](Trying Commands 1.png)
 
-**Description**: I created a directory  “”cse15L” and went into that directory. I then used pwd to print my working directory, went back to the original directory and used ls to list out the directories over there. This showed me the directory I created that was “cse15L”
+**Description**: I created a directory  “cse15L” and went into that directory. I then used ```pwd``` to print my working directory, went back to the original directory and used ```ls``` to list out the directories over there. This showed me the directory I created that was “cse15L”
 
-Commands such as _cd_, _ls_, _mkdir_, and _pwd_ among others are extremely common. You should remember what each of them do since you will be using them very often. I often make use of websites such as [this](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) or [this](https://www.digitalocean.com/community/tutorials/linux-commands) where a list of commands for beginners are listed. This helps me get started off with using the workspace. A simple Google search such as _"linux commands cheat sheet"_ will give you a lot of useful websites! Explore the different commands and play around with them.
+Commands such as ```cd```, ```ls```, ```mkdir```, and ```pwd``` among others are extremely common. You should remember what each of them do since you will be using them very often. I often make use of websites such as [this](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) or [this](https://www.digitalocean.com/community/tutorials/linux-commands) where a list of commands for beginners are listed. This helps me get started off with using the workspace. A simple Google search such as _"linux commands cheat sheet"_ will give you a lot of useful websites! Explore the different commands and play around with them.
 
 ## Conclusion
 
