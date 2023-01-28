@@ -10,7 +10,7 @@ Once you are done with this, you will be setup to continue with the rest of the 
 
 ## Installing VS Code
 
-VS Code is a text editor where you can write and runn your programs. To install this, go to [Visual Studio website] (https://code.visualstudio.com) and download the program. There are different options for Mac and Window users, so choose accordingly. 
+VS Code is a text editor where you can write and runn your programs. To install this, go to [Visual Studio website](https://code.visualstudio.com) and download the program. There are different options for Mac and Window users, so choose accordingly. 
 
 ![Image](VS Code SS 1.png)
 
@@ -29,7 +29,7 @@ Congratulations! You have successfully installed and setup VS Code. You can now 
 This section will essentially teach you how to connect to a **remote** computer over the Internet to do work in this class. If you are a Mac user, ignore the step below.
 
 **For Windows users:** 
-Install Git for Windows through this [link] (https://gitforwindows.org/). Click on **Download** and complete the steps of setup.
+Install Git for Windows through this [link](https://gitforwindows.org/). Click on **Download** and complete the steps of setup.
 
 ![Image](Connecting Remotely SS 1.png)
 
@@ -37,7 +37,7 @@ Once you are done with this, you will use the newly installed **git bash** in yo
 
 The following steps must be completed by all students.
 
-1.  To ssh, open a terminal in VS Code (ctrl + ``````` OR cmd + ```````). You can also open a terminal by clicking on the button shown in the screenshot below. 
+1.  To ssh, open a terminal in VS Code (ctrl + ` OR cmd + ` You can also open a terminal by clicking on the button shown in the screenshot below. 
 
 ![Image](Remotely Connecting SS 3.png)
 
